@@ -1,0 +1,12 @@
+div.modal {
+  background-color: darkgray;
+  color: black;
+  display: "flex";
+  justify-content: "center";
+  align-items: "center";
+  border-radius: "10px";
+  text-shadow: "3px 3px 1px black";
+  box-shadow: "5px 5px 5px gray";
+  padding: "100px";
+  margin: "10px";
+}
